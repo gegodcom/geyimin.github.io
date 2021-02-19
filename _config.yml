@@ -26,8 +26,7 @@ navigation:
     url: /about
   - name: 归档
     url: /archive
-  - name: 标签
-    url: /tags
+ 
 
 # Pagination
 paginate: 8
