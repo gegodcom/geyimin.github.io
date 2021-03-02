@@ -63,7 +63,7 @@ disqus: # fromendworld
 gitalk:
   clientID: 94b5dcafa17542ecd9ab
   clientSecret: 4dd2b4e4eeed0c3ac8759b918d987ba1584a7205
-  repo: t.gegod.com
+  repo: geyimin.github.io
   owner: gegodcom
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
